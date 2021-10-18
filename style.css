@@ -1,0 +1,39 @@
+section{
+width: 1000px;
+height: 360px;
+margin: 100px auto;
+display: flex;
+justify-content: space-around;
+}
+div{
+width: 250px;
+height: 200%;
+padding: 20px;
+margin: 10px;
+margin-bottom: 20%;
+background:#c4aead;
+
+}
+p{
+background-color: beige;
+padding: 10px;
+font-size: 18px;
+font-family: sans-serif;
+}
+input{
+margin-left: 220px;
+padding: 10px;
+
+}
+body{
+background-color:navajowhite;
+
+}
+h1{
+text-align: center;
+}
+button{
+width: 40px;
+
+position: absolute;
+}
